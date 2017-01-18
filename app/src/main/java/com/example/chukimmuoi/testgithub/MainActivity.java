@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
     private void function01(){
         //Test thoi ma.
     }
+
+    private void function03(){
+        //Test thoi ma.
+    }
 }
