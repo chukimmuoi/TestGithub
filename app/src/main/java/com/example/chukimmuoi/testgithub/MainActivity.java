@@ -12,10 +12,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
-    //66666.
-    //77777.
-    //88888.
-    //99999.
-    //1010101010.
 }
